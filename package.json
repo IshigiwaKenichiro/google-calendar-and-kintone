@@ -1,0 +1,16 @@
+{
+  "name": "google-calendar-with-kintone",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "clone": "clasp clone",
+    "push" : "clasp push",
+    "pull" : "clasp pull"
+  },
+  "author": "IshigiwaKenichiro",
+  "license": "ISC",
+  "dependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.82"
+  }
+}
